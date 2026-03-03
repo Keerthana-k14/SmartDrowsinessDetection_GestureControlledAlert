@@ -1,0 +1,6 @@
+# IDE Settings
+.idea/
+
+# Environments
+.venv/
+__pycache__/
